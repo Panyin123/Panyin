@@ -1,0 +1,91 @@
+.navbar-default {
+  background-color: #fff;
+}
+.navbar-default .navbar-brand {
+  color: #dd845a;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+color: sienna;
+background-color: transparent;
+}
+
+.page-footer{
+    background-color: #222222;
+}
+
+.center h2{
+    color: #9f2525;
+    text-align: center;
+}
+
+.sky{
+    text-align: centerl
+}
+.drop{
+    text-align: center;
+}
+
+.same{
+	text-align: center;
+}
+
+.feature {
+	background: url('../tourist/97720018.jpg');
+	background-size: cover;
+	background-color: #dd845a;
+	color: black;
+	
+}
+
+.nail{
+	background-color: #ffcccc;
+}
+
+.footer-info {
+    width: 100%;
+    background-color: #222;
+    position: relative;
+    z-index: 1;
+}
+.footer a {
+    color: #fff;
+}
+
+.footer .footer-top {
+    padding-top: 9rem;
+    padding-bottom: 5rem;
+}
+.footer .widget-title, .footer .widget-title a {
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: 0.2rem;
+    color: #999;
+}
+
+.small-print{
+	text-align: center;
+}
+
+.contact form .form {
+    width: 100%;
+    height: auto;
+    padding: 15px 15px 12px;
+    font-size: 18px;
+    margin-bottom: 18px;
+    color: #7f7f7f;
+    letter-spacing: 0.5px;
+}
+#contact .form-control {
+    background: #fafafa;
+    border: 1px solid rgba(119, 81, 81, 0.34);
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 0;
+    
+}
+.textarea {
+    height: 228px;
+    max-width: 100%;
+    max-height: 229px;
+}
